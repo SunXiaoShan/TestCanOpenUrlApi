@@ -20,3 +20,5 @@ method is not constrained by the LSApplicationQueriesSchemes requirement.
 If an app is available to handle the URL, the system will launch it,
 whether or not you have declared the scheme.
 ```
+
+[連結](https://medium.com/@SunXiaoShan/%E9%97%9C%E6%96%BC-canopenurl-%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B-ef53ab47952b)為我個人 blog 紀錄更詳細測試及說明。
